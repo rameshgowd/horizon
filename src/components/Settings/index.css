@@ -1,0 +1,14 @@
+
+
+.settings {
+    background-color: #222;
+    color:#ffffff;
+    padding: 10px;
+    text-align: right;
+
+}
+
+select {
+    padding: 5px;
+    border-radius: 5px;
+}
